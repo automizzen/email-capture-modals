@@ -1,6 +1,6 @@
 ## Code for Email Capture Modals
 
-This contains code to create three different types of modals, modeled after sumome's app suite.
+This contains code to create different types of modals, modeled after sumome's app suite.
 
 * [Welcome Mat](https://sumome.com/app/welcome-mat)
 * [Smart Bar](https://sumome.com/app/smart-bar)
